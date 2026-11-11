@@ -218,3 +218,4 @@ pai-lingo/
 
 **PAI Series • 2026**
 ```
+https://github.com/rafahalav/pai-lingo.git
