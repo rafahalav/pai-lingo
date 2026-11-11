@@ -125,7 +125,7 @@ Como conveniência, o projeto inclui um script de inicialização automatizada (
    ```
 2. **Execute o script:**
     ```bash
-    .start.sh
+    ./start.sh
     ```
     
 ---
